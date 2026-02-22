@@ -203,7 +203,7 @@ export default function Portfolio() {
               </div>
               <div className="relative z-10 w-full h-full rounded-[2.5rem] overflow-hidden border-2 border-white/20 bg-gray-900 group shadow-2xl">
                 <img 
-                  src="/mitkul.jpeg" 
+                  src="/mitkul2.0.jpeg" 
                   alt="Satria" 
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-2 transition-transform duration-700" 
                 />
