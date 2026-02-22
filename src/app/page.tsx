@@ -203,7 +203,7 @@ export default function Portfolio() {
               </div>
               <div className="relative z-10 w-full h-full rounded-[2.5rem] overflow-hidden border-2 border-white/20 bg-gray-900 group shadow-2xl">
                 <img 
-                  src="/jenong.jpeg" 
+                  src="/mitkul.jpeg" 
                   alt="Satria" 
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-2 transition-transform duration-700" 
                 />
@@ -611,7 +611,7 @@ export default function Portfolio() {
             
             {/* WHATSAPP LINK */}
             <a 
-              href="https://wa.me/6285924594747" 
+              href="https://wa.me/628988140702" 
               target="_blank" 
               className="group flex items-center gap-3 transition-all"
             >
@@ -626,7 +626,7 @@ export default function Portfolio() {
 
             {/* EMAIL LINK */}
             <a 
-              href="mailto:peachzw12@gmail.com" 
+              href="mailto:newsatria466@gmail.com" 
               className="group flex items-center gap-3 transition-all"
             >
               <div className="w-12 h-12 rounded-full border border-white/10 flex items-center justify-center group-hover:border-blue-500 group-hover:bg-blue-500/10 transition-all">
@@ -670,7 +670,7 @@ export default function Portfolio() {
             
             {/* INSTAGRAM */}
             <motion.a 
-              href="https://instagram.com/username_kamu" 
+              href="https://www.instagram.com/bahlillahadalia?igsh=MWR6aHN2dDdvMm1kbQ==" 
               target="_blank"
               whileHover={{ y: -5 }}
               className="w-12 h-12 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 text-gray-400 hover:border-pink-500 hover:text-pink-500 hover:shadow-[0_0_20px_rgba(236,72,153,0.3)] transition-all duration-300"
@@ -680,7 +680,7 @@ export default function Portfolio() {
 
             {/* TIKTOK */}
             <motion.a 
-              href="https://tiktok.com/@username_kamu" 
+              href="https://www.instagram.com/reel/DS-GNVeE3aq/?igsh=MTQyaTR3ZzYxcW12dA==" 
               target="_blank"
               whileHover={{ y: -5 }}
               className="w-12 h-12 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 text-gray-400 hover:border-cyan-400 hover:text-cyan-400 hover:shadow-[0_0_20px_rgba(34,211,238,0.3)] transition-all duration-300"
