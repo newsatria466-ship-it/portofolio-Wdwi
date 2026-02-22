@@ -492,7 +492,7 @@ export default function Portfolio() {
             { id: 1, title: "Web Dev", issuer: "Dicoding", img: "/intro html.jpeg" },
             { id: 2, title: "IoT Eng", issuer: "Cisco", img: "/iot huawei.png" },
             { id: 3, title: "Cyber Sec", issuer: "Google", img: "/iot tekno.png" },
-            { id: 4, title: "Micro-C", issuer: "Harkat", img: "/jenong.jpeg" },
+            { id: 4, title: "Micro-C", issuer: "Harkat", img: "/juniorptog.png" },
           ].map((cert, index) => ( 
             <motion.div
               key={cert.id}
